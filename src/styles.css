@@ -1,8 +1,14 @@
-/* add css styles here (optional) */
-
-.test {
+.block {
+  position: relative;
   display: inline-block;
-  margin: 2em auto;
-  border: 2px solid #000;
-  font-size: 2em;
+  border-style: solid;
+  background-color: #EEEEEE;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.button {
+  position: absolute;
+  border-style: solid;
+  cursor: pointer;
 }

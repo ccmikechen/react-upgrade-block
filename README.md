@@ -15,12 +15,12 @@ npm install --save react-upgrade-block
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-upgrade-block'
+import ReactUpgradeBlock from 'react-upgrade-block'
 
-class Example extends Component {
+class ReactUpgradeBlock extends Component {
   render () {
     return (
-      <MyComponent />
+      <ReactUpgradeBlock />
     )
   }
 }
