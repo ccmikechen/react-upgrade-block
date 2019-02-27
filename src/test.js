@@ -1,7 +1,7 @@
-import ExampleComponent from './'
+import ReactUpgradeBlock from './'
 
-describe('ExampleComponent', () => {
+describe('ReactUpgradeBlock', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(ReactUpgradeBlock).toBeTruthy()
   })
 })
